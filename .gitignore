@@ -1,2 +1,2 @@
-*.[h5]
-*~
+#ignore all HDFStore-files
+*.h5
